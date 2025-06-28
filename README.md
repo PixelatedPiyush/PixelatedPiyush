@@ -1,16 +1,91 @@
-## Hi there 👋
+Hi there, I'm Piyush Kurwade 👋
+🎓 About Me
+I'm a passionate Artificial Intelligence and Data Science student , with a strong interest in leveraging data to solve complex problems and create innovative solutions. My academic journey has equipped me with a solid foundation in core programming, data analysis, and machine learning principles.
+Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+Data Science & Analytics
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+</p>
 
-<!--
-**PixelatedPiyush/PixelatedPiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Toolkit: Pandas, NumPy, Matplotlib, Seaborn
+Statistics: Descriptive & Inferential Statistics, Hypothesis Testing
+Exploratory Data Analysis (EDA): Data Visualization, Pattern Recognition
+Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
 
-Here are some ideas to get you started:
+Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+🌱 Currently Learning
+<p align="left">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="NLP" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deep Learning: Neural Networks, CNNs, RNNs
+Power BI: Business Intelligence & Data Visualization
+Natural Language Processing (NLP): Text Analytics, Sentiment Analysis
+Generative AI: Large Language Models, Prompt Engineering
+
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PixelatedPiyush&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedPiyush&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+📈 Learning Resources & Documentation
+Essential Documentation
+
+Python Official Documentation
+Pandas Documentation
+Scikit-learn User Guide
+SQL Tutorial - W3Schools
+MongoDB Documentation
+
+Machine Learning Resources
+
+Machine Learning Course - Andrew Ng
+Kaggle Learn
+Papers With Code
+
+Deep Learning & AI
+
+Deep Learning Specialization
+TensorFlow Documentation
+Hugging Face Course
+
+🚀 Featured Projects
+python# Coming Soon - Exciting Projects in Development!
+projects = {
+    "data_science": ["EDA Projects", "ML Models", "Statistical Analysis"],
+    "web_development": ["Data Dashboards", "ML Web Apps"],
+    "ai_research": ["NLP Applications", "Deep Learning Models"]
+}
+
+📫 Let's Connect
+<p align="left">
+  <a href="mailto:piyushkurwade111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/PixelatedPiyush">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+💡 Fun Fact
+"The best way to learn data science is by doing data science!" 📊
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PixelatedPiyush&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</div>
+⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!
