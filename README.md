@@ -97,8 +97,4 @@ projects = {
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PixelatedPiyush&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</div>
-
 ⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
