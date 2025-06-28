@@ -1,13 +1,18 @@
-Hi there, I'm Piyush Kurwade 👋
-🎓 About Me
-I'm a passionate Artificial Intelligence and Data Science student , with a strong interest in leveraging data to solve complex problems and create innovative solutions. My academic journey has equipped me with a solid foundation in core programming, data analysis, and machine learning principles.
-Programming Languages
+# Hi there, I'm Piyush Kurwade 👋
+
+## 🎓 About Me
+I'm a passionate **Artificial Intelligence and Data Science student**, with a strong interest in leveraging data to solve complex problems and create innovative solutions. My academic journey has equipped me with a solid foundation in core programming, data analysis, and machine learning principles.
+
+## 💻 Technical Expertise
+
+### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
-Data Science & Analytics
+
+### Data Science & Analytics
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -15,64 +20,69 @@ Data Science & Analytics
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
 
-Data Toolkit: Pandas, NumPy, Matplotlib, Seaborn
-Statistics: Descriptive & Inferential Statistics, Hypothesis Testing
-Exploratory Data Analysis (EDA): Data Visualization, Pattern Recognition
-Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
+- **Data Toolkit**: Pandas, NumPy, Matplotlib, Seaborn
+- **Statistics**: Descriptive & Inferential Statistics, Hypothesis Testing
+- **Exploratory Data Analysis (EDA)**: Data Visualization, Pattern Recognition
+- **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation
 
-Databases
+### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </p>
-🌱 Currently Learning
+
+## 🌱 Currently Learning
+
 <p align="left">
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="NLP" width="40" height="40"/>
 </p>
 
-Deep Learning: Neural Networks, CNNs, RNNs
-Power BI: Business Intelligence & Data Visualization
-Natural Language Processing (NLP): Text Analytics, Sentiment Analysis
-Generative AI: Large Language Models, Prompt Engineering
+- **Deep Learning**: Neural Networks, CNNs, RNNs
+- **Power BI**: Business Intelligence & Data Visualization
+- **Natural Language Processing (NLP)**: Text Analytics, Sentiment Analysis
+- **Generative AI**: Large Language Models, Prompt Engineering
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PixelatedPiyush&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedPiyush&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-📈 Learning Resources & Documentation
-Essential Documentation
+## 📈 Learning Resources & Documentation
 
-Python Official Documentation
-Pandas Documentation
-Scikit-learn User Guide
-SQL Tutorial - W3Schools
-MongoDB Documentation
+### Essential Documentation
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+- [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
+- [MongoDB Documentation](https://docs.mongodb.com/)
 
-Machine Learning Resources
+### Machine Learning Resources
+- [Machine Learning Course - Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [Papers With Code](https://paperswithcode.com/)
 
-Machine Learning Course - Andrew Ng
-Kaggle Learn
-Papers With Code
+### Deep Learning & AI
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [TensorFlow Documentation](https://www.tensorflow.org/learn)
+- [Hugging Face Course](https://huggingface.co/course/chapter1/1)
 
-Deep Learning & AI
+## 🚀 Featured Projects
 
-Deep Learning Specialization
-TensorFlow Documentation
-Hugging Face Course
-
-🚀 Featured Projects
-python# Coming Soon - Exciting Projects in Development!
+```python
+# Coming Soon - Exciting Projects in Development!
 projects = {
     "data_science": ["EDA Projects", "ML Models", "Statistical Analysis"],
     "web_development": ["Data Dashboards", "ML Web Apps"],
     "ai_research": ["NLP Applications", "Deep Learning Models"]
 }
+```
 
-📫 Let's Connect
+## 📫 Let's Connect
+
 <p align="left">
   <a href="mailto:piyushkurwade111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -82,10 +92,13 @@ projects = {
   </a>
 </p>
 
-💡 Fun Fact
-"The best way to learn data science is by doing data science!" 📊
+## 💡 Fun Fact
+*"The best way to learn data science is by doing data science!"* 📊
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PixelatedPiyush&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </div>
-⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!
+
+⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
