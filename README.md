@@ -26,6 +26,9 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
@@ -33,7 +36,6 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
 </p>
-
 - **Data Toolkit**: Pandas, NumPy, Matplotlib, Seaborn
 - **Statistics**: Descriptive & Inferential Statistics, Hypothesis Testing
 - **Exploratory Data Analysis (EDA)**: Data Visualization, Pattern Recognition
@@ -54,6 +56,9 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
