@@ -7,17 +7,31 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 ### Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.learn-c.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 </p>
 
 ### Data Science & Analytics
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
 </p>
 
 - **Data Toolkit**: Pandas, NumPy, Matplotlib, Seaborn
@@ -27,16 +41,26 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 ### Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
 </p>
 
 ## 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="NLP" width="40" height="40"/>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="NLP" width="40" height="40"/>
+  </a>
 </p>
 
 - **Deep Learning**: Neural Networks, CNNs, RNNs
