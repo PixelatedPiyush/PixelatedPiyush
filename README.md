@@ -101,12 +101,6 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 </div>
 
-<div align="center">
-  <!-- theme-aware snake -->
-  ![GitHub Snake Light](https://raw.githubusercontent.com/PixelatedPiyush/PixelatedPiyush/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake Dark](https://raw.githubusercontent.com/PixelatedPiyush/PixelatedPiyush/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-</div>
-
 
 ## 📈 Learning Resources & Documentation
 
