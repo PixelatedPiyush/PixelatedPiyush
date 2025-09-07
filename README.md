@@ -1,5 +1,8 @@
 # Hi there, I'm Piyush Kurwade 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Piyush+Kurwade+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+
 ## 🎓 About Me
 I'm a passionate **Artificial Intelligence and Data Science student**, with a strong interest in leveraging data to solve complex problems and create innovative solutions. My academic journey has equipped me with a solid foundation in core programming, data analysis, and machine learning principles.
 
@@ -74,12 +77,37 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 - **Natural Language Processing (NLP)**: Text Analytics, Sentiment Analysis
 - **Generative AI**: Large Language Models, Prompt Engineering
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Check+out+my+GitHub+Stats!;Tracking+my+learning+journey+🔥)](https://git.io/typing-svg)
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelatedPiyush&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PixelatedPiyush&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedPiyush&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+## 📊 GitHub Stats & Activity  
+
+<div align="center">
+
+  <!-- Stats Card with Commit Fix -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PixelatedPiyush&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="180px" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedPiyush&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180px" />
+
+  <!-- Streak Stats (🔥 animation look) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PixelatedPiyush&theme=radical&hide_border=true" height="180px" />
+
+</div>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PixelatedPiyush/PixelatedPiyush/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 
 ## 📈 Learning Resources & Documentation
 
