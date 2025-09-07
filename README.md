@@ -1,9 +1,8 @@
 <div align="center">
 
-![Typing SVG](font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Piyush+Kurwade;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Piyush+Kurwade+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things!)
 
 </div>
-
 ## 🎓 About Me
 I'm a passionate **Artificial Intelligence and Data Science student**, with a strong interest in leveraging data to solve complex problems and create innovative solutions. My academic journey has equipped me with a solid foundation in core programming, data analysis, and machine learning principles.
 
@@ -82,7 +81,7 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=F72C7D&center=true&vCenter=true&width=800&lines=📊+GitHub+Analytics+Dashboard+📊;🔥+Tracking+My+Coding+Journey+🔥;⚡+Data+Driven+Development+⚡;🚀+Always+Building+%26+Learning+🚀)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=F72C7D&center=true&vCenter=true&width=800&lines=📊+GitHub+Analytics+Dashboard+📊;🔥+Tracking+My+Coding+Journey+🔥;⚡+Data+Driven+Development+⚡;🚀+Always+Building+%26+Learning+🚀)
 
 </div>
 
@@ -174,7 +173,7 @@ projects = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=💡+Thanks+for+checking+out+my+profile!+💡;🔥+Let's+build+something+amazing+together!+🔥;📊+Data+tells+the+story+of+progress+📊)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=💡+Thanks+for+checking+out+my+profile!+💡;🔥+Let's+build+something+amazing+together!+🔥;📊+Data+tells+the+story+of+progress+📊)
 
 </div>
 
