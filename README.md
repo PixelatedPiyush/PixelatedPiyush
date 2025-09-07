@@ -180,4 +180,4 @@ projects = {
 
 ---
 
-⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting! **
+⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
