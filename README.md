@@ -103,7 +103,10 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PixelatedPiyush/PixelatedPiyush/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+![GitHub Snake Light](https://raw.githubusercontent.com/PixelatedPiyush/PixelatedPiyush/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/PixelatedPiyush/PixelatedPiyush/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 
