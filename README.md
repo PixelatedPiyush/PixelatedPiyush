@@ -109,6 +109,30 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 ---
 
+## 🕸️ **Activity Breakdown**
+
+<div align="center">
+  
+  <!-- Commits by Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PixelatedPiyush&theme=radical&utcOffset=5.5" height="200px" />
+  
+  <!-- Commits per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PixelatedPiyush&theme=radical" height="200px" />
+
+</div>
+
+<div align="center">
+  
+  <!-- Monthly Contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PixelatedPiyush&theme=radical" height="200px" />
+  
+  <!-- Stats Overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PixelatedPiyush&theme=radical" height="200px" />
+
+</div>
+
+---
+
 ## 🎯 **Detailed Code Metrics**
 
 <div align="center">
