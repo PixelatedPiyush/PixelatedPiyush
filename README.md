@@ -82,8 +82,11 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 - **Generative AI**: Large Language Models, Prompt Engineering
 
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Check+out+my+GitHub+Stats!;Tracking+my+learning+journey+🔥)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
