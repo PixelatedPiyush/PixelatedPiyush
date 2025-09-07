@@ -1,6 +1,10 @@
-# Hi there, I'm Piyush Kurwade 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Piyush+Kurwade+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Piyush+Kurwade+👋;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+</div>
+
+
 
 
 ## 🎓 About Me
@@ -77,18 +81,9 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 - **Natural Language Processing (NLP)**: Text Analytics, Sentiment Analysis
 - **Generative AI**: Large Language Models, Prompt Engineering
 
-## 📊 GitHub Stats & Activity  
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Check+out+my+GitHub+Stats!;Tracking+my+learning+journey+🔥)](https://git.io/typing-svg)
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelatedPiyush&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedPiyush&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📊 GitHub Stats & Activity  
 
 <div align="center">
 
