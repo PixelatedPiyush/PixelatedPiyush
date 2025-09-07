@@ -123,34 +123,6 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 ---
 
-<details>
-<summary>🎯 <b>Click to see additional stats breakdown</b></summary>
-
-<br>
-
-### 📈 **Weekly Development Breakdown**
-```text
-Python       ████████████████████████▓   85.2% 
-Java         ██████▓░░░░░░░░░░░░░░░░░░   99.1% 
-JavaScript   ███▓░░░░░░░░░░░░░░░░░░░░░   11.3% 
-C            ██▓░░░░░░░░░░░░░░░░░░░░░░    8.7% 
-SQL          █▓░░░░░░░░░░░░░░░░░░░░░░░    5.2% 
-```
-
-### 🏗️ **Project Categories**
-```python
-projects = {
-    "machine_learning": ["Predictive Models", "NLP Applications", "Data Analysis"],
-    "web_development": ["Data Dashboards", "ML Web Apps", "API Development"],
-    "data_science": ["EDA Projects", "Statistical Analysis", "Visualization"],
-    "ai_research": ["Deep Learning Models", "Computer Vision", "Research Papers"]
-}
-```
-
-</details>
-
----
-
 ## 📈 Learning Resources & Documentation
 
 ### Essential Documentation
