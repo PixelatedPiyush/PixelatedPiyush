@@ -109,34 +109,6 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 ---
 
-## 🏆 **GitHub Achievements & Trophies**
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PixelatedPiyush&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8" />
-
-</div>
-
----
-
-## 📊 **Advanced Analytics Dashboard**
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=🎯+Deep+Dive+Analytics+🎯;📈+Code+Patterns+%26+Insights+📈)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixelatedPiyush&bg_color=0D1117&color=FFFFFF&line=F72C7D&point=00D9FF&area=true&hide_border=true&theme=github-compact&radius=16" width="90%" />
-
-</div>
-
----
-
 ## 🎯 **Detailed Code Metrics**
 
 <div align="center">
@@ -151,45 +123,6 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 
 ---
 
-## 🔥 **Contribution Heatmap**
-
-<div align="center">
-  
-  <!-- GitHub Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/F72C7D/PixelatedPiyush" alt="PixelatedPiyush's Github chart" width="90%" />
-
-</div>
-
----
-
-## 📱 **Profile Views & Social Proof**
-
-<div align="center">
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=PixelatedPiyush&label=Profile%20Views&color=F72C7D&style=for-the-badge" alt="Profile Views" />
-  
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/PixelatedPiyush?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Followers" />
-  
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/PixelatedPiyush?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="Stars" />
-
-</div>
-
----
-
-## 🎨 **Interactive Elements**
-
-<div align="center">
-
-<!-- Dynamic Quote -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <details>
 <summary>🎯 <b>Click to see additional stats breakdown</b></summary>
 
@@ -198,17 +131,11 @@ I'm a passionate **Artificial Intelligence and Data Science student**, with a st
 ### 📈 **Weekly Development Breakdown**
 ```text
 Python       ████████████████████████▓   85.2% 
-Java         ██████▓░░░░░░░░░░░░░░░░░░   22.1% 
+Java         ██████▓░░░░░░░░░░░░░░░░░░   99.1% 
 JavaScript   ███▓░░░░░░░░░░░░░░░░░░░░░   11.3% 
 C            ██▓░░░░░░░░░░░░░░░░░░░░░░    8.7% 
 SQL          █▓░░░░░░░░░░░░░░░░░░░░░░░    5.2% 
 ```
-
-### 🎯 **Repository Quality Score**
-- **Code Quality**: ⭐⭐⭐⭐⭐ (5/5)
-- **Documentation**: ⭐⭐⭐⭐☆ (4/5)
-- **Consistency**: ⭐⭐⭐⭐⭐ (5/5)
-- **Innovation**: ⭐⭐⭐⭐⭐ (5/5)
 
 ### 🏗️ **Project Categories**
 ```python
